@@ -1,0 +1,133 @@
+{
+    "Product": [
+        {
+            "Macbook_Pro": {
+                "ProductName": "Mackbook Pro",
+                "Rating": " ★★★★☆",
+                "Price": "64,990",
+                "Specs": {
+                    "Display": "14-inch or 16-inch Liquid Retina XDR",
+                    "Chip": "Apple M3 / M3 Pro / M3 Max (varies by model)",
+                    "Memory": "16GB, 32GB, or 64GB unified memory",
+                    "Storage": "512GB – 8TB SSD",
+                    "Battery_Life": "Up to 18 hours",
+                    "Ports": "Thunderbolt 4 (USB-C), HDMI, SDXC card slot, MagSafe 3",
+                    "OS": "macOS Sonoma"
+                },
+                "ImageSource": "../images/MacBookPro-front.png"
+                
+            },
+            "Macbook_Air": {
+                "ProductName": "Mackbook Air",
+                "Rating": " ★★★★☆",
+                "Price": "99,990",
+                "Specs": {
+                    "Display": "13.6-inch or 15.3-inch Liquid Retina display",
+                    "Chip": "Apple M3 chip with 8-core CPU and up to 10-core GPU",
+                    "Memory": "8GB, 16GB, or 24GB unified memory",
+                    "Storage": "256GB – 2TB SSD",
+                    "Battery_Life": "Up to 18 hours",
+                    "Ports": "Two Thunderbolt / USB 4 ports, MagSafe 3, 3.5mm headphone jack",
+                    "OS": "macOS Sonoma"
+                },
+                "ImageSource": "../Images/MacBookAir-front.png"
+            },
+            "iMac": {
+                "ProductName": "iM ac",
+                "Rating": " ★★★★☆",
+                "Price": "84,990",
+                "Specs": {
+                    "Display": "24-inch 4.5K Retina display (4480×2520 resolution)",
+                    "Chip": "Apple M3 chip with 8-core CPU and up to 10-core GPU",
+                    "Memory": "8GB, 16GB, or 24GB unified memory",
+                    "Storage": "256GB – 2TB SSD",
+                    "Camera": "1080p FaceTime HD camera",
+                    "Ports": "Two Thunderbolt / USB 4 ports, two USB 3 ports (on select models), Gigabit Ethernet (on select models)",
+                    "OS": "macOS Sonoma"
+                },
+                "ImageSource": "../Images/iMac-front.png"
+            },
+            "Pro_Display": {
+                "ProductName": "Pro Display XDR",
+                "Rating": " ★★★★☆",
+                "Price": "229,990",
+                "Specs": {
+                    "Display": "32-inch Retina 6K display (6016×3384 resolution)",
+                    "Viewing_Angle": "Superwide with advanced polarizer for color accuracy",
+                    "Glass_Option": "Standard glass or nano-texture glass",
+                    "Compatibility": "Works with Mac computers featuring Thunderbolt 3 and macOS Catalina 10.15.2 or later",
+                    "Stand_Option": "Pro Stand (adjustable height, tilt, rotation) or VESA mount adapter",
+                    "Ports": "1× Thunderbolt 3 (USB-C) port (up to 96W power delivery)",
+                    "Weight": "16.5 lbs (without stand), 25.7 lbs (with Pro Stand)"
+                },
+                "ImageSource": "../Images/ProDisplayXDR-front.png"
+            }
+        },
+
+        {
+
+        },
+
+        {
+             "Ipad_Pro": {
+                "ProductName": "iPad Pro",
+                "Rating": " ★★★★☆",
+                "Price": "24,990",
+                "Specs": {
+                    "Display": "11-inch Liquid Retina (IPS)",
+                    "Chip": "Apple A16",
+                    "Storage": "128 GB, 256 GB, 512 GB",
+                    "Battery_Life": "Up to ~10 hours of usage (typical)",
+                    "Rear_Camera": "12 MP (ƒ/1.8)",
+                    "Front_Camera": "12 MP (Center Stage support)"
+                },
+                "ImageSource": "../images/iPadPro.png"
+            },
+              "Ipad_Air":
+              {
+                "ProductName": "iPad Air",
+                "Rating": " ★★★★☆",
+                "Price": "42,990",
+                "Specs": {
+                    "Display": "11-inch model: Liquid Retina, 2360 × 1640 pixels, 264 ppi, 500 nits brightness",
+                    "Chip": "Apple M3 chip: 8-core CPU (4 performance + 4 efficiency cores)",
+                    "Storage": "Configurations: 128 GB / 256 GB / 512 GB / 1 TB",
+                    "Battery_Life": "Up to ~10 hours of usage (typical)",
+                    "Rear_Camera": "12 MP Wide camera with Smart HDR and 4K video support",
+                    "Front_Camera": "12 MP “Center Stage” ultra-wide camera for video calls and framing"
+                },
+                "ImageSource": "../images/iPadAir.png"
+            },
+             "Ipad":
+              {
+                "ProductName": "iPad",
+                "Rating": " ★★★★☆",
+                "Price": "24,990",
+                "Specs": {
+                    "Display": "11-inch Liquid Retina (IPS)",
+                    "Chip": "Apple A16",
+                    "Storage": "128 GB, 256 GB, 512 GB",
+                    "Battery_Life": "Up to ~10 hours of usage (typical)",
+                    "Rear_Camera": "12 MP (ƒ/1.8)",
+                    "Front_Camera": "12 MP (Center Stage support) "
+                },
+                "ImageSource": "../images/iPad.png"
+            },
+             "Ipad_Mini":
+              {
+                "ProductName": "iPad Mini",
+                "Rating": " ★★★★☆",
+                "Price": "34,990",
+                "Specs": {
+                    "Display": "8.3-inch Liquid Retina (2266×1488 pixels at ~326 ppi), P3 wide color gamut, True Tone, fully laminated and anti-reflective.",
+                    "Chip": "A17 Pro chip with 6-core CPU (2 performance + 4 efficiency cores), 5-core GPU, and 16-core Neural Engine",
+                    "Storage": "128 GB, 256 GB, 512 GB.",
+                    "Battery_Life": "Up to ~10 hours of usage (typical)",
+                    "Rear_Camera": "12 MP Wide (ƒ/1.8), supports Smart HDR, 4K video recording.",
+                    "Front_Camera": "12 MP (for videos / FaceTime) with Center Stage and ultra-wide field of view. "
+                },
+                "ImageSource": "../images/iPadmini.png"
+            }
+        }
+    ]
+}
