@@ -14,7 +14,7 @@
                     "Ports": "Thunderbolt 4 (USB-C), HDMI, SDXC card slot, MagSafe 3",
                     "OS": "macOS Sonoma"
                 },
-                "ImageSource": "Images/MacBookPro-front.png",
+                "ImageSource": "images/MacBookPro-front.png",
                 "ImageSide": [
                     "images/macbookpro-keyboard.png",
                     "images/macbookpro-side.png",
