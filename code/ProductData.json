@@ -16,10 +16,10 @@
                 },
                 "ImageSource": "Images/MacBookPro-front.png",
                 "ImageSide": [
-                    "Images/macbookpro-keyboard.png",
-                    "Images/macbookpro-side.png",
-                    "Images/macbookpro-input.png",
-                    "Images/macbookpro-close.png"
+                    "images/macbookpro-keyboard.png",
+                    "images/macbookpro-side.png",
+                    "images/macbookpro-input.png",
+                    "images/macbookpro-close.png"
                 ]
             },
             "Macbook_Air": {
